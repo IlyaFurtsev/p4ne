@@ -1,0 +1,5 @@
+---
+demo:
+  hosts:
+    fs-ga:
+      ansible_connection: local
